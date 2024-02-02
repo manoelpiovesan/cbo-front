@@ -1,4 +1,4 @@
 class Config {
-  static final String apiUrl = 'http://localhost:8080';
-  static final String cboPath = 'cbo';
+  static const String apiUrl = 'http://localhost:8080';
+  static const String cboPath = 'cbo';
 }
